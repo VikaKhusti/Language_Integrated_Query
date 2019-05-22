@@ -1,0 +1,11 @@
+/home/victoria/dotNet/myApp/bin/Debug/netcoreapp2.2/myApp.deps.json
+/home/victoria/dotNet/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.json
+/home/victoria/dotNet/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.dev.json
+/home/victoria/dotNet/myApp/bin/Debug/netcoreapp2.2/myApp.dll
+/home/victoria/dotNet/myApp/bin/Debug/netcoreapp2.2/myApp.pdb
+/home/victoria/dotNet/myApp/obj/Debug/netcoreapp2.2/myApp.csprojAssemblyReference.cache
+/home/victoria/dotNet/myApp/obj/Debug/netcoreapp2.2/myApp.csproj.CoreCompileInputs.cache
+/home/victoria/dotNet/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfoInputs.cache
+/home/victoria/dotNet/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfo.cs
+/home/victoria/dotNet/myApp/obj/Debug/netcoreapp2.2/myApp.dll
+/home/victoria/dotNet/myApp/obj/Debug/netcoreapp2.2/myApp.pdb
